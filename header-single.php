@@ -97,7 +97,7 @@
 				</header>
 
 				<section id="" class="bg-img flex-item text-white text-center fill-height" style="background-image: url('<?php echo $thumb['0'];?>');">
-					<div class="pad-100 height-100" style="background:rgba(32,45,66,.8);">
+					<div class="pad-100 height-100" style="background:rgba(25,24,25,.8);">
 						<div class="container">
 
 							<h1 id="fittext3" class="hero-hdr text-white" style="line-height: normal;"><?php the_title(); ?></h1>
@@ -149,5 +149,5 @@
 				</header>
 			<?php } ?>
 
-			<div class="container">
-			<div id="content" class="row row-with-vspace site-content pad-40">
+			<div class="container-single">
+			<div id="content" class="site-content">

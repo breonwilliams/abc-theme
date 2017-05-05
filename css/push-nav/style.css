@@ -25,7 +25,7 @@ body, html {
 }
 
 a {
-  color: #9cb3a8;
+  color: #0dc3ad;
   text-decoration: none;
 }
 
@@ -73,7 +73,7 @@ a {
   top: 15px;
   height: 54px;
   width: 54px;
-  background-color: #243040;
+  background-color: #41515c;
   border-radius: 50%;
   /* image replacement */
   overflow: hidden;
@@ -214,7 +214,7 @@ a {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #243040;
+  background-color: #41515c;
   visibility: hidden;
   -webkit-transition: visibility 0s 0.7s;
   -moz-transition: visibility 0s 0.7s;
@@ -380,6 +380,5 @@ a {
 
 .orderedList dt {
   font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
   font-weight: 900;
 }
